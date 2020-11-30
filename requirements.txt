@@ -4,5 +4,5 @@ pandas==1.1.4
 seaborn==0.11.0
 plotly==4.13.0
 matplotlib==3.3.2
-imblearn==0.7.0
+imblearn
 jinja2==2.11.2
